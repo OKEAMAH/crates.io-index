@@ -53,3 +53,11 @@
 {"name":"stak-configuration","vers":"0.1.52","deps":[],"cksum":"570a170dbbb7a1a609454de4530b40da673afaffadb6b27d3288e163376dd538","features":{},"yanked":false}
 {"name":"stak-configuration","vers":"0.1.53","deps":[],"cksum":"a8bfc494e0aa3a91cb979ca12fdc4189ae0df54f51f8285a67ef0d662c2e1fb5","features":{},"yanked":false}
 {"name":"stak-configuration","vers":"0.1.54","deps":[],"cksum":"2e911ed332936ad6d0a8b8332f600b54d72c4a5065e93519773130e76edbe104","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.55","deps":[],"cksum":"585d274c22b3bc2b5a018f5e97c1c1408638dde6cf0921a22ee28b20be93f9c7","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.56","deps":[],"cksum":"bccc37305202c2b3f275c8e282f3072b001f606e54377e7028d1da4bf9f9e9f4","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.57","deps":[],"cksum":"abe37865a2dcf4d90f1f7b8da3baa44bbe7797e572be4696ea299680e0eb6654","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.58","deps":[],"cksum":"c084f41cf2293758f01d2e2ab29a2da09e01fbf23aaf6dac1b4cae81359c97db","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.59","deps":[],"cksum":"7710c783eed6c68b7f3f8d199e2e06bbfc31c81b9259c366cb720bb41e02e7fe","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.60","deps":[],"cksum":"4cb50fde2815e3b64ada4019874dbd617a29bf1337e2bb5c50d674462a5f69bf","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.61","deps":[],"cksum":"72d527c0d5d202196f0480e799abb80f865a84f1672d1d36632b979a1dacc319","features":{},"yanked":false}
+{"name":"stak-configuration","vers":"0.1.62","deps":[],"cksum":"3c586ec0353d56ab94b8da751cc6d250d705316961badb87b6da578ddd971f52","features":{},"yanked":false}

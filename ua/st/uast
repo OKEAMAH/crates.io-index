@@ -1,1 +1,15 @@
 {"name":"uast","vers":"1.0.0","deps":[],"cksum":"d7a62a00ca257cb71767920e8d6738f17f34fe35dde58149f55b6a3595cdc242","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.1.0","deps":[],"cksum":"dbde537da636d5af56b71c3d923f1ddedd9e3ac5b6c7bf595749993e74a29557","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.2.0","deps":[],"cksum":"193b08d49c56c5499e67451543a4d45255a1dc5c08f3e73b8c3a6f15bdd74e8c","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.3.1","deps":[],"cksum":"7c35752d9cae86bd1c879c79edbd5766c8f30de2dae08b0a377df90687f25dbe","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.4.0","deps":[],"cksum":"ebe78c034802124b28d76d1b521479a9566dadffa32900e43e8f8e3cdfee52fa","features":{},"yanked":false,"rust_version":"1.80.0"}
+{"name":"uast","vers":"1.4.1","deps":[],"cksum":"7ff23e3306c7b11499708c072593c9d8157910a459bf12971b3d80dff99d6853","features":{},"yanked":false}
+{"name":"uast","vers":"1.4.2","deps":[],"cksum":"7b1f7729e8a7735ef0c0944044dfaa268ec212961cf78b8fd2aa5ddb65eddc09","features":{},"yanked":false}
+{"name":"uast","vers":"1.4.3","deps":[],"cksum":"d07fe17f7ea8b6b67a60825b779b4fd66247f23f0356b22e519dab034190537e","features":{},"yanked":false}
+{"name":"uast","vers":"1.4.4","deps":[],"cksum":"4af691c131b2e9723782c8e0f9aac7370b93cf77bf9f6918c5e8eac466303583","features":{},"yanked":false}
+{"name":"uast","vers":"1.4.5","deps":[],"cksum":"170feb9b2c4c9d4bb27f3559441de355a9574aea21cb0497173e035859cfcf0e","features":{},"yanked":false}
+{"name":"uast","vers":"2.0.0","deps":[],"cksum":"293c17f4d58839d08f59a872c11af8e0ac9260016ceb46d640899213cd4dd5e7","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.0","deps":[],"cksum":"0bcbb543ecacc4d55ce2a857f3e3fd6b8b9fa9cb1dcb49de36ce30b2088bf048","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.1","deps":[],"cksum":"b0b8e0554148eed4dfebe910b525b562f932d5446fd37553453a5cddedac6bfe","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.2","deps":[],"cksum":"ea8a4aa06d54af1dd7fafb708f2944edd286e17ca91ec14b2a679eed75465bc6","features":{},"yanked":false}
+{"name":"uast","vers":"3.0.3","deps":[],"cksum":"adaeb8a2105c932b12a32c623e13a1a6e80ecdd305e1c99da3db82b158f10081","features":{},"yanked":false}
